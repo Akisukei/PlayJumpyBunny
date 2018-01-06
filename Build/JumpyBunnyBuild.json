@@ -1,0 +1,13 @@
+{
+"companyName": "Akisukei",
+"productName": "Jumpy Bunny",
+"dataUrl": "JumpyBunnyBuild.data.unityweb",
+"asmCodeUrl": "JumpyBunnyBuild.asm.code.unityweb",
+"asmMemoryUrl": "JumpyBunnyBuild.asm.memory.unityweb",
+"asmFrameworkUrl": "JumpyBunnyBuild.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
